@@ -12,7 +12,7 @@ Ova dokumentacija služi u svrhu primjene Pandoca za konverziju datoteka, odnosn
 2. 🍔 [Uvod u Markdown](docs/01-markdown-primjeri.md)
 3. 🥠 [Korisni linkovi za oba](docs/resources.md)
 
-<img src="Tux.png" width="30%" height="30%">
+<img src="tux.png" width="30%" height="30%">
 
 - [CHANGELOG](docs/CHANGELOG.md)
 - [GitHub Pages link](https://stormhb.github.io/pandoc-markdown/)
