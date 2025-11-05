@@ -1,5 +1,3 @@
-# pandoc-markdown
-dokumentacija o pandocu i markdownu
 ---
 title: Pandoc i Markdown
 author: Andrija Babic
